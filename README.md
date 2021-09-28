@@ -1,4 +1,4 @@
-# Courier Service-Overview
+# Courier System-Overview
 A mini full stack project(GUI Interface) on python using its library tkinter. This project mainly focuses on data entry of couriers informations/details such as consignment number, customer details etc and consignment tracking.
 
 # Features
@@ -20,10 +20,14 @@ You need to have these installed before cloning the project<br>
 Python (At least v3.9.7) - https://www.python.org/downloads/
 
 # Screenshots
-![Home Page](/screenshots/Homepage.png "Home Page")
-![Login](/screenshots/Login.png "Login")
-![Track-Consignment](/screenshots/Track.png "Track")
-![Track-Consigment(2)](/screenshots/Track-2.png "Track-2")
+## HOMEPAGE
+![Home Page](https://github.com/juhijoshi-coder/Courier-System/blob/main/Project-GUI/Screenshots-Courier%20Service/Homepage.png)
+## LOGIN
+![Login](https://github.com/juhijoshi-coder/Courier-System/blob/main/Project-GUI/Screenshots-Courier%20Service/Login.png)
+## TRACKING CONSIGNMENT-HOMEPAGE
+![Track-Consignment](https://github.com/juhijoshi-coder/Courier-System/blob/main/Project-GUI/Screenshots-Courier%20Service/Track.png)
+## TRACKING CONSIGNMENT
+![Track-Consigment(2)](https://github.com/juhijoshi-coder/Courier-System/blob/main/Project-GUI/Screenshots-Courier%20Service/Track-2.png)
 
 
 
